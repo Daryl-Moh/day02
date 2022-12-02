@@ -35,6 +35,15 @@ public class Main{
         if (item instanceof Orange)
             orange = (Orange)item;
 
+        // list 
+        // add apple 10 0.5
+        // add orange 5 0.3
+        // list 
+        // 1. Apple x 10 @ 0.5
+        // 2. Orange x 5 @ 0.3
+        // Checkout 
+        // The total price is ____ 
+
     }
 
     
